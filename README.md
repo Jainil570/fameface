@@ -5,6 +5,24 @@
 
 This web application allows you to upload an image of a celebrity and instantly identify who they are using a Convolutional Neural Network (CNN) model. Built with Streamlit for a user-friendly interface and powered by TensorFlow/Keras for the deep learning model, this app makes celebrity recognition accessible to everyone.
 
+## 🎬 Demo Video
+
+[![Watch the Celebrity Recognizer App Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://screenrec.com/share/OY8iDJZng2)
+
+**Click the image above to watch a short demonstration of the Celebrity Recognizer App in action!**
+
+The video showcases the following:
+
+* **User Interface:** A clean and intuitive interface powered by Streamlit.
+* **Image Upload:** How easily a user can upload an image of a celebrity using the file uploader.
+* **Celebrity Identification:** The process of clicking the "Identify Celebrity" button to trigger the prediction.
+* **Real-time Prediction:** The app quickly analyzes the uploaded image using the trained CNN model.
+* **Displaying Results:** Clearly presents the identified celebrity's name with a confidence score.
+* **Handling Uncertainty:** Shows how the app provides a helpful message when the confidence level is low, suggesting a clearer image.
+* **Variety of Celebrities:** Demonstrates the app's ability to recognize different celebrities from the trained dataset.
+
+This demo provides a quick overview of the app's functionality and ease of use. Give it a try yourself!
+
 ## 🚀 Getting Started
 
 1.  **Clone the repository** (if you have the code in one):
