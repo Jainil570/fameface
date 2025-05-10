@@ -73,12 +73,3 @@ The accuracy of this celebrity recognition app depends heavily on the quality an
 * **Occlusion and Pose:** If the celebrity's face is partially obscured or in an unusual pose, the accuracy might decrease.
 * **Similarity Between Celebrities:** Some celebrities may have similar facial features, which can lead to confusion for the model.
 * **Training Data Coverage:** The model can only recognize celebrities that were included in its training dataset.
-
-## 🙏 Acknowledgements
-
-* The development of this app was made possible by the open-source libraries Streamlit, TensorFlow, NumPy, and Pillow.
-* The pre-trained CNN model (`celebrity_cnn_model.h5`) is the core of this application. We acknowledge the researchers and developers who contributed to its creation (mention if you used a specific pre-trained model or your own trained model).
-
----
-
-Feel free to customize this `README.md` further with more details about your specific model training process, data sources (if you can share), or any other relevant information. Good luck with your app!
